@@ -1,0 +1,3 @@
+date_with_time,username,message
+2016-01-12 15:12:34,kittyGrass,What are some of the spookiest AI / ML project ideas you've had? Have you built something that you'd like to share with others?
+2017-03-12 18:12:34,Computer_Pro,"Pivoting a ""table"" means to convert all unique rows of a column into separate columns of their own. This is also referred as transposing a column or converting from long format to wide format. In some use cases like time series analysis, this process facilitates selection of only interesting columns and correlating them."
