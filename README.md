@@ -1,5 +1,12 @@
 # temp
 
+Usage:
+* Download all files in one directory
+* Open a terminal and CD into this directory
+* type command ``` python transform_csv.py --input_csv_path <absolute path to csv file> --type <some string> --output_csv_path <absolute path to output file>```
+* You will find the transformed file in this directory after the command is run
+
+
 Assumptions:
 
 * Types include posts, or other schemas that are known to the data team.
