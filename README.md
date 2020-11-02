@@ -2,7 +2,7 @@
 
 Usage:
 * Download all files in one directory
-* Open a terminal and CD into this directory
+* Open a terminal and cd into this directory
 * Install required packages by typing ```pip3 install -r requirements.txt```
 * Type command ``` python transform_csv.py --input_csv_path <absolute path to csv file> --type <some string> --output_csv_path <absolute path to output file>```
 * You will find the transformed file in this directory after the command is run
