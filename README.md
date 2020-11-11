@@ -1,4 +1,4 @@
-# Take-Home Assginment
+# Argparse Command Design Practice
 
 Usage:
 * Download all files in one directory
